@@ -5,27 +5,34 @@ export const translations = {
       about: 'About',
       projects: 'Projects',
       internships: 'Experience',
+      education: 'Education',
       skills: 'Skills',
       hobbies: 'Hobbies',
       contact: 'Contact'
     },
     hero: {
       greeting: 'Hello, I\'m',
-      title: 'Full Stack Developer',
-      subtitle: 'Passionate about creating innovative solutions and beautiful user experiences',
+      title: 'Electrical Engineering Student',
+      subtitle: 'Passionate about innovative engineering solutions and sustainable technology',
       cta: 'Get In Touch'
     },
     about: {
       title: 'About Me',
-      description: 'I am a passionate developer with a strong foundation in both frontend and backend technologies. I love solving complex problems and creating user-friendly applications that make a difference.',
+      description: 'I am a dedicated electrical engineering student with a strong foundation in circuit design, power systems, and renewable energy. I love solving complex engineering problems and creating sustainable solutions that make a difference.',
       values: {
         innovation: 'Innovation',
-        innovationDesc: 'Always exploring new technologies and approaches',
+        innovationDesc: 'Always exploring new technologies and engineering approaches',
         quality: 'Quality',
-        qualityDesc: 'Committed to writing clean, maintainable code',
+        qualityDesc: 'Committed to excellence in engineering design and analysis',
         collaboration: 'Collaboration',
         collaborationDesc: 'Strong team player with excellent communication skills'
       }
+    },
+    education: {
+      title: 'Education',
+      subtitle: 'My academic journey in electrical engineering and related fields',
+      relevantCourses: 'Relevant Courses',
+      achievements: 'Achievements'
     },
     projects: {
       title: 'My Projects',
@@ -44,7 +51,7 @@ export const translations = {
     },
     hobbies: {
       title: 'Hobbies & Interests',
-      description: 'When I\'m not coding, you can find me:'
+      description: 'When I\'m not studying or working on projects, you can find me:'
     },
     contact: {
       title: 'Let\'s Connect',
@@ -62,27 +69,34 @@ export const translations = {
       about: 'Tentang',
       projects: 'Projek',
       internships: 'Pengalaman',
+      education: 'Pendidikan',
       skills: 'Kemahiran',
       hobbies: 'Hobi',
       contact: 'Hubungi'
     },
     hero: {
       greeting: 'Halo, saya',
-      title: 'Pembangun Full Stack',
-      subtitle: 'Bersemangat dalam mencipta penyelesaian inovatif dan pengalaman pengguna yang indah',
+      title: 'Pelajar Kejuruteraan Elektrik',
+      subtitle: 'Bersemangat tentang penyelesaian kejuruteraan inovatif dan teknologi lestari',
       cta: 'Hubungi Saya'
     },
     about: {
       title: 'Tentang Saya',
-      description: 'Saya adalah pembangun yang bersemangat dengan asas yang kukuh dalam teknologi frontend dan backend. Saya suka menyelesaikan masalah kompleks dan mencipta aplikasi mesra pengguna yang membuat perbezaan.',
+      description: 'Saya adalah pelajar kejuruteraan elektrik yang berdedikasi dengan asas yang kukuh dalam reka bentuk litar, sistem kuasa, dan tenaga boleh diperbaharui. Saya suka menyelesaikan masalah kejuruteraan yang kompleks dan mencipta penyelesaian lestari yang membuat perbezaan.',
       values: {
         innovation: 'Inovasi',
-        innovationDesc: 'Sentiasa meneroka teknologi dan pendekatan baru',
+        innovationDesc: 'Sentiasa meneroka teknologi dan pendekatan kejuruteraan baru',
         quality: 'Kualiti',
-        qualityDesc: 'Komited untuk menulis kod yang bersih dan boleh diselenggara',
+        qualityDesc: 'Komited kepada kecemerlangan dalam reka bentuk dan analisis kejuruteraan',
         collaboration: 'Kerjasama',
         collaborationDesc: 'Pemain pasukan yang kuat dengan kemahiran komunikasi yang baik'
       }
+    },
+    education: {
+      title: 'Pendidikan',
+      subtitle: 'Perjalanan akademik saya dalam kejuruteraan elektrik dan bidang berkaitan',
+      relevantCourses: 'Kursus Berkaitan',
+      achievements: 'Pencapaian'
     },
     projects: {
       title: 'Projek Saya',
@@ -101,7 +115,7 @@ export const translations = {
     },
     hobbies: {
       title: 'Hobi & Minat',
-      description: 'Apabila saya tidak mengekod, anda boleh menjumpai saya:'
+      description: 'Apabila saya tidak belajar atau bekerja pada projek, anda boleh menjumpai saya:'
     },
     contact: {
       title: 'Mari Berhubung',
@@ -119,27 +133,34 @@ export const translations = {
       about: 'À propos',
       projects: 'Projets',
       internships: 'Expérience',
+      education: 'Éducation',
       skills: 'Compétences',
       hobbies: 'Loisirs',
       contact: 'Contact'
     },
     hero: {
       greeting: 'Bonjour, je suis',
-      title: 'Développeur Full Stack',
-      subtitle: 'Passionné par la création de solutions innovantes et d\'expériences utilisateur magnifiques',
+      title: 'Étudiant en Génie Électrique',
+      subtitle: 'Passionné par les solutions d\'ingénierie innovantes et la technologie durable',
       cta: 'Me Contacter'
     },
     about: {
       title: 'À Propos de Moi',
-      description: 'Je suis un développeur passionné avec une base solide dans les technologies frontend et backend. J\'adore résoudre des problèmes complexes et créer des applications conviviales qui font la différence.',
+      description: 'Je suis un étudiant en génie électrique dévoué avec une base solide dans la conception de circuits, les systèmes de puissance et les énergies renouvelables. J\'adore résoudre des problèmes d\'ingénierie complexes et créer des solutions durables qui font la différence.',
       values: {
         innovation: 'Innovation',
-        innovationDesc: 'Toujours explorer de nouvelles technologies et approches',
+        innovationDesc: 'Toujours explorer de nouvelles technologies et approches d\'ingénierie',
         quality: 'Qualité',
-        qualityDesc: 'Engagé à écrire du code propre et maintenable',
+        qualityDesc: 'Engagé à l\'excellence dans la conception et l\'analyse d\'ingénierie',
         collaboration: 'Collaboration',
         collaborationDesc: 'Excellent joueur d\'équipe avec d\'excellentes compétences de communication'
       }
+    },
+    education: {
+      title: 'Éducation',
+      subtitle: 'Mon parcours académique en génie électrique et domaines connexes',
+      relevantCourses: 'Cours Pertinents',
+      achievements: 'Réalisations'
     },
     projects: {
       title: 'Mes Projets',
@@ -158,7 +179,7 @@ export const translations = {
     },
     hobbies: {
       title: 'Loisirs & Intérêts',
-      description: 'Quand je ne code pas, vous pouvez me trouver:'
+      description: 'Quand je n\'étudie pas ou ne travaille pas sur des projets, vous pouvez me trouver:'
     },
     contact: {
       title: 'Connectons-nous',
@@ -176,27 +197,34 @@ export const translations = {
       about: 'Acerca de',
       projects: 'Proyectos',
       internships: 'Experiencia',
+      education: 'Educación',
       skills: 'Habilidades',
       hobbies: 'Aficiones',
       contact: 'Contacto'
     },
     hero: {
       greeting: 'Hola, soy',
-      title: 'Desarrollador Full Stack',
-      subtitle: 'Apasionado por crear soluciones innovadoras y experiencias de usuario hermosas',
+      title: 'Estudiante de Ingeniería Eléctrica',
+      subtitle: 'Apasionado por soluciones de ingeniería innovadoras y tecnología sostenible',
       cta: 'Contáctame'
     },
     about: {
       title: 'Acerca de Mí',
-      description: 'Soy un desarrollador apasionado con una base sólida en tecnologías frontend y backend. Me encanta resolver problemas complejos y crear aplicaciones fáciles de usar que marcan la diferencia.',
+      description: 'Soy un estudiante de ingeniería eléctrica dedicado con una base sólida en diseño de circuitos, sistemas de potencia y energías renovables. Me encanta resolver problemas de ingeniería complejos y crear soluciones sostenibles que marcan la diferencia.',
       values: {
         innovation: 'Innovación',
-        innovationDesc: 'Siempre explorando nuevas tecnologías y enfoques',
+        innovationDesc: 'Siempre explorando nuevas tecnologías y enfoques de ingeniería',
         quality: 'Calidad',
-        qualityDesc: 'Comprometido a escribir código limpio y mantenible',
+        qualityDesc: 'Comprometido con la excelencia en diseño y análisis de ingeniería',
         collaboration: 'Colaboración',
         collaborationDesc: 'Excelente jugador de equipo con habilidades de comunicación sobresalientes'
       }
+    },
+    education: {
+      title: 'Educación',
+      subtitle: 'Mi viaje académico en ingeniería eléctrica y campos relacionados',
+      relevantCourses: 'Cursos Relevantes',
+      achievements: 'Logros'
     },
     projects: {
       title: 'Mis Proyectos',
@@ -215,7 +243,7 @@ export const translations = {
     },
     hobbies: {
       title: 'Aficiones & Intereses',
-      description: 'Cuando no estoy programando, puedes encontrarme:'
+      description: 'Cuando no estoy estudiando o trabajando en proyectos, puedes encontrarme:'
     },
     contact: {
       title: 'Conectemos',

@@ -35,19 +35,19 @@ export const Hero = () => {
         
         <div className="mt-20 grid grid-cols-1 md:grid-cols-3 gap-8 max-w-3xl mx-auto">
           <div className="p-6 bg-white/60 backdrop-blur-sm rounded-2xl shadow-lg hover:shadow-xl transition-all duration-300 hover:scale-105">
-            <div className="text-3xl mb-4">🚀</div>
-            <h3 className="font-semibold text-gray-800 mb-2">Fast Development</h3>
-            <p className="text-gray-600 text-sm">Quick turnaround times without compromising quality</p>
-          </div>
-          <div className="p-6 bg-white/60 backdrop-blur-sm rounded-2xl shadow-lg hover:shadow-xl transition-all duration-300 hover:scale-105">
-            <div className="text-3xl mb-4">🎨</div>
-            <h3 className="font-semibold text-gray-800 mb-2">Creative Design</h3>
-            <p className="text-gray-600 text-sm">Modern, user-friendly interfaces that engage users</p>
+            <div className="text-3xl mb-4">⚡</div>
+            <h3 className="font-semibold text-gray-800 mb-2">Circuit Design</h3>
+            <p className="text-gray-600 text-sm">Designing efficient electrical circuits and systems</p>
           </div>
           <div className="p-6 bg-white/60 backdrop-blur-sm rounded-2xl shadow-lg hover:shadow-xl transition-all duration-300 hover:scale-105">
             <div className="text-3xl mb-4">🔧</div>
-            <h3 className="font-semibold text-gray-800 mb-2">Clean Code</h3>
-            <p className="text-gray-600 text-sm">Maintainable, scalable solutions built to last</p>
+            <h3 className="font-semibold text-gray-800 mb-2">Problem Solving</h3>
+            <p className="text-gray-600 text-sm">Analytical thinking for complex engineering challenges</p>
+          </div>
+          <div className="p-6 bg-white/60 backdrop-blur-sm rounded-2xl shadow-lg hover:shadow-xl transition-all duration-300 hover:scale-105">
+            <div className="text-3xl mb-4">💡</div>
+            <h3 className="font-semibold text-gray-800 mb-2">Innovation</h3>
+            <p className="text-gray-600 text-sm">Creating sustainable engineering solutions</p>
           </div>
         </div>
       </div>

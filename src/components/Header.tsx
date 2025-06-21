@@ -32,6 +32,9 @@ export const Header = () => {
             <button onClick={() => scrollToSection('about')} className="text-gray-600 hover:text-blue-600 transition-colors">
               {t('nav.about')}
             </button>
+            <button onClick={() => scrollToSection('education')} className="text-gray-600 hover:text-blue-600 transition-colors">
+              {t('nav.education')}
+            </button>
             <button onClick={() => scrollToSection('projects')} className="text-gray-600 hover:text-blue-600 transition-colors">
               {t('nav.projects')}
             </button>
