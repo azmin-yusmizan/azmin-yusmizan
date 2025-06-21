@@ -16,7 +16,7 @@ export const Hero = () => {
         <div className="animate-fade-in">
           <p className="text-lg text-gray-600 mb-4">{t('hero.greeting')}</p>
           <h1 className="text-5xl md:text-7xl font-bold mb-6 bg-gradient-to-r from-blue-600 via-purple-600 to-blue-800 bg-clip-text text-transparent">
-            Your Name
+            Azmin Yusmizan
           </h1>
           <h2 className="text-2xl md:text-3xl text-gray-700 mb-8">
             {t('hero.title')}
