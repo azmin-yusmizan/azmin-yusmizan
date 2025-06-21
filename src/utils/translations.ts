@@ -18,7 +18,7 @@ export const translations = {
     },
     about: {
       title: 'About Me',
-      description: 'I am a dedicated electrical engineering student with a strong foundation in circuit design, power systems, and renewable energy. I love solving complex engineering problems and creating sustainable solutions that make a difference.',
+      description: '21-year-old Malaysian international student in Electrical Engineering at INSA Lyon, passionate about embedded electronics and intelligent systems development. Currently seeking an internship to apply my skills in circuit design and embedded programming.',
       values: {
         innovation: 'Innovation',
         innovationDesc: 'Always exploring new technologies and engineering approaches',
@@ -82,7 +82,7 @@ export const translations = {
     },
     about: {
       title: 'Tentang Saya',
-      description: 'Saya adalah pelajar kejuruteraan elektrik yang berdedikasi dengan asas yang kukuh dalam reka bentuk litar, sistem kuasa, dan tenaga boleh diperbaharui. Saya suka menyelesaikan masalah kejuruteraan yang kompleks dan mencipta penyelesaian lestari yang membuat perbezaan.',
+      description: 'Pelajar antarabangsa Malaysia berumur 21 tahun dalam jurusan Kejuruteraan Elektrik di INSA Lyon, bersemangat dalam bidang elektronik terbenam dan pembangunan sistem pintar. Sedang mencari latihan industri untuk mengaplikasikan kemahiran saya dalam reka bentuk litar dan pengaturcaraan terbenam.',
       values: {
         innovation: 'Inovasi',
         innovationDesc: 'Sentiasa meneroka teknologi dan pendekatan kejuruteraan baru',
@@ -146,7 +146,7 @@ export const translations = {
     },
     about: {
       title: 'À Propos de Moi',
-      description: 'Je suis un étudiant en génie électrique dévoué avec une base solide dans la conception de circuits, les systèmes de puissance et les énergies renouvelables. J\'adore résoudre des problèmes d\'ingénierie complexes et créer des solutions durables qui font la différence.',
+      description: 'Étudiant international malaisien de 21 ans en Génie Électrique à l’INSA Lyon, passionné par l’électronique embarquée et le développement de systèmes intelligents. À la recherche d’un stage pour appliquer mes compétences en conception de circuits et programmation embarquée.',
       values: {
         innovation: 'Innovation',
         innovationDesc: 'Toujours explorer de nouvelles technologies et approches d\'ingénierie',
@@ -210,7 +210,7 @@ export const translations = {
     },
     about: {
       title: 'Acerca de Mí',
-      description: 'Soy un estudiante de ingeniería eléctrica dedicado con una base sólida en diseño de circuitos, sistemas de potencia y energías renovables. Me encanta resolver problemas de ingeniería complejos y crear soluciones sostenibles que marcan la diferencia.',
+      description: 'Estudiante internacional malasio de 21 años en Ingeniería Eléctrica en INSA Lyon, apasionado por la electrónica embebida y el desarrollo de sistemas inteligentes. En busca de una práctica para aplicar mis competencias en diseño de circuitos y programación embebida.',
       values: {
         innovation: 'Innovación',
         innovationDesc: 'Siempre explorando nuevas tecnologías y enfoques de ingeniería',
