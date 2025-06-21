@@ -6,11 +6,32 @@ export const Education = () => {
   const { t } = useLanguage();
 
   const education = [
+     {
+      degree: 'Master in Electrical Engineering',
+      institution: 'INSA Lyon',
+      location: 'Villeurbanne, France',
+      duration: '2024 - 2027',
+      gpa: '-/4.0',
+      description: 'Generalist electrical engineering student',
+      courses: [
+        'Electronics and Sensors',
+        'Automation',
+        'Electrotechnical',
+        'Energy',
+        'Industrial Informatics',
+        'Microprocessors'
+      ],
+      achievements: [
+        'Dean\'s List - 4 semesters',
+        'Engineering Excellence Award 2024',
+        'President of Electrical Engineering Society'
+      ]
+    },
     {
-      degree: 'Bachelor of Electrical Engineering',
-      institution: 'University Name',
-      location: 'City, Country',
-      duration: '2022 - 2026',
+      degree: 'Bachelor of Electrical Engineering and Industrial Informatics',
+      institution: 'IUT Paul Sabatier Toulouse III',
+      location: 'Toulouse, France',
+      duration: '2022 - 2024',
       gpa: '3.8/4.0',
       description: 'Specializing in power systems, electronics, and renewable energy technologies.',
       courses: [
@@ -28,10 +49,10 @@ export const Education = () => {
       ]
     },
     {
-      degree: 'High School Diploma',
-      institution: 'High School Name',
-      location: 'City, Country',
-      duration: '2020 - 2022',
+      degree: 'French Language and Engineering Foundation',
+      institution: 'Université de Tours',
+      location: 'Tours, France',
+      duration: '2021 - 2022',
       gpa: '3.9/4.0',
       description: 'Graduated with honors, focusing on mathematics and physics.',
       courses: [
@@ -44,6 +65,27 @@ export const Education = () => {
         'Valedictorian',
         'National Science Olympiad - Gold Medal',
         'Mathematics Competition Winner'
+      ]
+    },
+     {
+      degree: 'Malaysian Education Certificate',
+      institution: 'Sekolah Menengah Sains Jeli (JeSS)',
+      location: 'Kelantan, Malaysia',
+      duration: '2016 - 2020',
+      result: '9A+',
+      description: 'Pure Science Stream',
+      courses: [
+        'Circuit Analysis',
+        'Digital Signal Processing',
+        'Power Electronics',
+        'Control Systems',
+        'Renewable Energy Systems',
+        'Microprocessors'
+      ],
+      achievements: [
+        'Dean\'s List - 4 semesters',
+        'Engineering Excellence Award 2024',
+        'President of Electrical Engineering Society'
       ]
     }
   ];
